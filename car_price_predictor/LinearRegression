@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-  car=pd.read_csv('/content/sample_data/Try.csv')
+  car=pd.read_csv('/content/sample_data/car.csv')
 car.head
 car.shape
 car.info()
